@@ -1,6 +1,6 @@
 #  3D Knowledge Graph
 
-This knowledge graph is a 3d representation of wikidata items associated with searchwords.
+This knowledge graph is a 3D presentation of wikidata items associated with searchwords.
 It uses Non-negative Matrix factorization (NNMF) to extract 10 topics with 5 words from the first 100 searchresults from semanticscholar
 related to the keyword. 
 
