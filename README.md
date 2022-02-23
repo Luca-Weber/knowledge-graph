@@ -1,4 +1,4 @@
-![This is an image] (/../main/public/prev.png)
+![This is an image] (/public/prev.png)
 
 #  3D Knowledge Graph
 
