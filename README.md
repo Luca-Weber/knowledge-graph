@@ -1,3 +1,5 @@
+![This is an image] (/../main/public/prev.png)
+
 #  3D Knowledge Graph
 
 This knowledge graph is a 3D presentation of wikidata items associated with searchwords.
