@@ -1,0 +1,3114 @@
+{
+    "nodes": [
+        {
+            "name": "field of work",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "member of political party",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "native language",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "occupation",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "employer",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "place of burial",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "religion or world view",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "award received",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "ethnic group",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "doctoral advisor",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "place of birth",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "place of death",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "sex or gender",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "father",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "mother",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "spouse",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "country of citizenship",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "instance of",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "position held",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "child",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "educated at",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "relative",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "student of",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "manner of death",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "place of origin (Switzerland)",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "described by source",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "participant in",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "nominated for",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "languages spoken, written or signed",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "topic's main template",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "present in work",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "sibling",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "member of",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "archives at",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "on focus list of Wikimedia project",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "assessment",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "cause of death",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "academic degree",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "Wikimedia outline",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "residence",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "writing language",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "family name",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "given name",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "influenced by",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "notable work",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "student",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "professorship",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "facial hair",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "topic's main category",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "work location",
+            "group": 1,
+            "size": 15,
+            "level": 2
+        },
+        {
+            "name": "theoretical physics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "German Democratic Party",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "German",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "professor",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "pedagogue",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "non-fiction writer",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "university teacher",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "philosopher of science",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "physicist",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "mathematician",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "theoretical physicist",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "inventor",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "patent examiner",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "science writer",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "philosopher",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "writer",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "teacher",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "scientist",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Bern",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Humboldt University of Berlin",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Leiden University",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "University of California, Berkeley",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "German University in Prague",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "University of Zurich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Royal Prussian Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Institute for Advanced Study",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "University of Bern",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Swiss Federal Institute of Intellectual Property",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Kaiser Wilhelm Society",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Deutsche Physikalische Gesellschaft",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "ETH Zürich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Princeton University",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Charles University",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "National Museum of Health and Medicine",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "agnosticism",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Matteucci Medal",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Foreign Member of the Royal Society",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Pour le Mérite for Sciences and Arts",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Josiah Willard Gibbs Lectureship",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Prix Jules Janssen",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Honorary doctor of the University of Geneva",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "honorary doctor of the Hebrew University of Jerusalem",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Franklin Medal",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Max Planck Medal",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "honorary doctor of the Princeton University",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "honorary doctor of the University of Madrid Complutense",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Member of the National Academy of Sciences of the United States",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Gold Medal of the Royal Astronomical Society",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Barnard Medal for Meritorious Service to Science",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Copley Medal",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Nobel Prize in Physics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Jewish people",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Heinrich Friedrich Weber",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Alfred Kleiner",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Heinrich Burkhardt",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Ulm",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Princeton",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "male",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Hermann Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Pauline Koch",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Elsa Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Mileva Marić",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Germany",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "United States of America",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Switzerland",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Cisleithania",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Weimar Republic",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "German Empire",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "human",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "professor",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Eduard Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Hans Albert Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Lieserl (Einstein)",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Luitpold-Gymnasium",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "University of Zurich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "old Kantonsschule (Albert Einstein House)",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "ETH Zürich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Lina Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Elsa Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Heinrich Friedrich Weber",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "natural causes",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Zürich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Digitized residence applications of the Prague Police Directorate  (conscription) 1850–1914",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "1922 Encyclopædia Britannica",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Larousse Encyclopedia online",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Great Soviet Encyclopedia (1969–1978)",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "BEIC Digital Library",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Obalky knih.cz",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Medvik",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Manhattan Project",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "1. Solvay Conference on Physics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "5. Solvay Conference on Physics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Nobel Prize in Physics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "German",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "English",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Template:Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Marie Curie: The Courage of Knowledge",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Maja Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Royal Society",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "French Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Royal Swedish Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Indian National Science Academy",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Academy of Sciences of the USSR",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Brazilian Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Royal Netherlands Academy of Arts and Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "National Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Centre international de synthèse",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Royal Prussian Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Lincean Academy",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Accademia Nazionale delle Scienze detta dei XL",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Göttingen Academy of Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Russian Academy of Sciences (1917–25)",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "American Academy of Arts and Sciences",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "American Philosophical Society",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "German Academy of Sciences Leopoldina",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Bavarian Academy of Sciences and Humanities",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Louis Round Wilson Library",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Albert Einstein Archives",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "ETH Zurich University Archives",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Swiss Literary Archives",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Wikipedia:Vital articles",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "intelligence test",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "abdominal aortic aneurysm",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Doctor of Philosophy in Physics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Doctor of Philosophy",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "outline of Albert Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Einsteinhaus Caputh",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Princeton",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Einsteinhaus",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Smíchov",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Munich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "English",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Albert",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Paul Valéry",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Karl Pearson",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Henry George",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Riazuddin",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Ernst Mach",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Mahatma Gandhi",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "George Bernard Shaw",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Thomas Young",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Benedictus de Spinoza",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "David Hume",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Arthur Schopenhauer",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Hendrik Lorentz",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Bernhard Riemann",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Moritz Schlick",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Hermann Minkowski",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "James Clerk Maxwell",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Isaac Newton",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Fyodor Dostoyevsky",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "unified field theory",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Planck constant",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Einstein field equations",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "theory of Brownian Motion",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "photoelectric effect",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "general relativity",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "special relativity",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "mass–energy equivalence",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "theory of relativity",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "quantum mechanics",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Ernst G. Straus",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "professor",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "full professor",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "academician",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "walrus moustache",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Category:Albert Einstein",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Berlin",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Bern",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Zürich",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Princeton",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Caputh",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": "Prague",
+            "group": 2,
+            "size": 35,
+            "level": 3
+        },
+        {
+            "name": 1,
+            "group": 4,
+            "size": 50,
+            "level": 0
+        },
+        {
+            "name": "einstein",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "theory",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "relativity",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "book",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "science",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "princeton",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "books",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "paperback",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "print",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "editions",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "et",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "brain",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "hemispheres",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "photographs",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "left",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "la",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "en",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "sa",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "le",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "neuroanatomy",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "evolution",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "neurological",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "cortex",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "particle",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "quantum",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "wave",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "physics",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "view",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "bohr",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "heisenberg",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "copenhagen",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "conference",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "solvay",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "year",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "students",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "clinical",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "medicine",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "specialty",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "viewpoint",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "stellar",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "aberration",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "relativistic",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "cultivated",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "profound",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "mind",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "training",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "undergraduate",
+            "group": 3,
+            "size": 2,
+            "level": -2
+        },
+        {
+            "name": "topic0",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic1",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic2",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic3",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic4",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic5",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic6",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic7",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic8",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        },
+        {
+            "name": "topic9",
+            "group": 4,
+            "size": 15,
+            "level": -1
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": "field of work",
+            "targetNode": "field of work"
+        },
+        {
+            "source": 1,
+            "target": "member of political party",
+            "targetNode": "member of political party"
+        },
+        {
+            "source": 1,
+            "target": "native language",
+            "targetNode": "native language"
+        },
+        {
+            "source": 1,
+            "target": "occupation",
+            "targetNode": "occupation"
+        },
+        {
+            "source": 1,
+            "target": "employer",
+            "targetNode": "employer"
+        },
+        {
+            "source": 1,
+            "target": "place of burial",
+            "targetNode": "place of burial"
+        },
+        {
+            "source": 1,
+            "target": "religion or world view",
+            "targetNode": "religion or world view"
+        },
+        {
+            "source": 1,
+            "target": "award received",
+            "targetNode": "award received"
+        },
+        {
+            "source": 1,
+            "target": "ethnic group",
+            "targetNode": "ethnic group"
+        },
+        {
+            "source": 1,
+            "target": "doctoral advisor",
+            "targetNode": "doctoral advisor"
+        },
+        {
+            "source": 1,
+            "target": "place of birth",
+            "targetNode": "place of birth"
+        },
+        {
+            "source": 1,
+            "target": "place of death",
+            "targetNode": "place of death"
+        },
+        {
+            "source": 1,
+            "target": "sex or gender",
+            "targetNode": "sex or gender"
+        },
+        {
+            "source": 1,
+            "target": "father",
+            "targetNode": "father"
+        },
+        {
+            "source": 1,
+            "target": "mother",
+            "targetNode": "mother"
+        },
+        {
+            "source": 1,
+            "target": "spouse",
+            "targetNode": "spouse"
+        },
+        {
+            "source": 1,
+            "target": "country of citizenship",
+            "targetNode": "country of citizenship"
+        },
+        {
+            "source": 1,
+            "target": "instance of",
+            "targetNode": "instance of"
+        },
+        {
+            "source": 1,
+            "target": "position held",
+            "targetNode": "position held"
+        },
+        {
+            "source": 1,
+            "target": "child",
+            "targetNode": "child"
+        },
+        {
+            "source": 1,
+            "target": "educated at",
+            "targetNode": "educated at"
+        },
+        {
+            "source": 1,
+            "target": "relative",
+            "targetNode": "relative"
+        },
+        {
+            "source": 1,
+            "target": "student of",
+            "targetNode": "student of"
+        },
+        {
+            "source": 1,
+            "target": "manner of death",
+            "targetNode": "manner of death"
+        },
+        {
+            "source": 1,
+            "target": "place of origin (Switzerland)",
+            "targetNode": "place of origin (Switzerland)"
+        },
+        {
+            "source": 1,
+            "target": "described by source",
+            "targetNode": "described by source"
+        },
+        {
+            "source": 1,
+            "target": "participant in",
+            "targetNode": "participant in"
+        },
+        {
+            "source": 1,
+            "target": "nominated for",
+            "targetNode": "nominated for"
+        },
+        {
+            "source": 1,
+            "target": "languages spoken, written or signed",
+            "targetNode": "languages spoken, written or signed"
+        },
+        {
+            "source": 1,
+            "target": "topic's main template",
+            "targetNode": "topic's main template"
+        },
+        {
+            "source": 1,
+            "target": "present in work",
+            "targetNode": "present in work"
+        },
+        {
+            "source": 1,
+            "target": "sibling",
+            "targetNode": "sibling"
+        },
+        {
+            "source": 1,
+            "target": "member of",
+            "targetNode": "member of"
+        },
+        {
+            "source": 1,
+            "target": "archives at",
+            "targetNode": "archives at"
+        },
+        {
+            "source": 1,
+            "target": "on focus list of Wikimedia project",
+            "targetNode": "on focus list of Wikimedia project"
+        },
+        {
+            "source": 1,
+            "target": "assessment",
+            "targetNode": "assessment"
+        },
+        {
+            "source": 1,
+            "target": "cause of death",
+            "targetNode": "cause of death"
+        },
+        {
+            "source": 1,
+            "target": "academic degree",
+            "targetNode": "academic degree"
+        },
+        {
+            "source": 1,
+            "target": "Wikimedia outline",
+            "targetNode": "Wikimedia outline"
+        },
+        {
+            "source": 1,
+            "target": "residence",
+            "targetNode": "residence"
+        },
+        {
+            "source": 1,
+            "target": "writing language",
+            "targetNode": "writing language"
+        },
+        {
+            "source": 1,
+            "target": "family name",
+            "targetNode": "family name"
+        },
+        {
+            "source": 1,
+            "target": "given name",
+            "targetNode": "given name"
+        },
+        {
+            "source": 1,
+            "target": "influenced by",
+            "targetNode": "influenced by"
+        },
+        {
+            "source": 1,
+            "target": "notable work",
+            "targetNode": "notable work"
+        },
+        {
+            "source": 1,
+            "target": "student",
+            "targetNode": "student"
+        },
+        {
+            "source": 1,
+            "target": "professorship",
+            "targetNode": "professorship"
+        },
+        {
+            "source": 1,
+            "target": "facial hair",
+            "targetNode": "facial hair"
+        },
+        {
+            "source": 1,
+            "target": "topic's main category",
+            "targetNode": "topic's main category"
+        },
+        {
+            "source": 1,
+            "target": "work location",
+            "targetNode": "work location"
+        },
+        {
+            "source": "field of work",
+            "target": "theoretical physics",
+            "targetNode": "theoretical physics"
+        },
+        {
+            "source": "member of political party",
+            "target": "German Democratic Party",
+            "targetNode": "German Democratic Party"
+        },
+        {
+            "source": "native language",
+            "target": "German",
+            "targetNode": "German"
+        },
+        {
+            "source": "occupation",
+            "target": "professor",
+            "targetNode": "professor"
+        },
+        {
+            "source": "occupation",
+            "target": "pedagogue",
+            "targetNode": "pedagogue"
+        },
+        {
+            "source": "occupation",
+            "target": "non-fiction writer",
+            "targetNode": "non-fiction writer"
+        },
+        {
+            "source": "occupation",
+            "target": "university teacher",
+            "targetNode": "university teacher"
+        },
+        {
+            "source": "occupation",
+            "target": "philosopher of science",
+            "targetNode": "philosopher of science"
+        },
+        {
+            "source": "occupation",
+            "target": "physicist",
+            "targetNode": "physicist"
+        },
+        {
+            "source": "occupation",
+            "target": "mathematician",
+            "targetNode": "mathematician"
+        },
+        {
+            "source": "occupation",
+            "target": "theoretical physicist",
+            "targetNode": "theoretical physicist"
+        },
+        {
+            "source": "occupation",
+            "target": "inventor",
+            "targetNode": "inventor"
+        },
+        {
+            "source": "occupation",
+            "target": "patent examiner",
+            "targetNode": "patent examiner"
+        },
+        {
+            "source": "occupation",
+            "target": "science writer",
+            "targetNode": "science writer"
+        },
+        {
+            "source": "occupation",
+            "target": "philosopher",
+            "targetNode": "philosopher"
+        },
+        {
+            "source": "occupation",
+            "target": "writer",
+            "targetNode": "writer"
+        },
+        {
+            "source": "occupation",
+            "target": "teacher",
+            "targetNode": "teacher"
+        },
+        {
+            "source": "occupation",
+            "target": "scientist",
+            "targetNode": "scientist"
+        },
+        {
+            "source": "employer",
+            "target": "Bern",
+            "targetNode": "Bern"
+        },
+        {
+            "source": "employer",
+            "target": "Humboldt University of Berlin",
+            "targetNode": "Humboldt University of Berlin"
+        },
+        {
+            "source": "employer",
+            "target": "Leiden University",
+            "targetNode": "Leiden University"
+        },
+        {
+            "source": "employer",
+            "target": "University of California, Berkeley",
+            "targetNode": "University of California, Berkeley"
+        },
+        {
+            "source": "employer",
+            "target": "German University in Prague",
+            "targetNode": "German University in Prague"
+        },
+        {
+            "source": "employer",
+            "target": "University of Zurich",
+            "targetNode": "University of Zurich"
+        },
+        {
+            "source": "employer",
+            "target": "Royal Prussian Academy of Sciences",
+            "targetNode": "Royal Prussian Academy of Sciences"
+        },
+        {
+            "source": "employer",
+            "target": "Institute for Advanced Study",
+            "targetNode": "Institute for Advanced Study"
+        },
+        {
+            "source": "employer",
+            "target": "University of Bern",
+            "targetNode": "University of Bern"
+        },
+        {
+            "source": "employer",
+            "target": "Swiss Federal Institute of Intellectual Property",
+            "targetNode": "Swiss Federal Institute of Intellectual Property"
+        },
+        {
+            "source": "employer",
+            "target": "Kaiser Wilhelm Society",
+            "targetNode": "Kaiser Wilhelm Society"
+        },
+        {
+            "source": "employer",
+            "target": "Deutsche Physikalische Gesellschaft",
+            "targetNode": "Deutsche Physikalische Gesellschaft"
+        },
+        {
+            "source": "employer",
+            "target": "ETH Zürich",
+            "targetNode": "ETH Zürich"
+        },
+        {
+            "source": "employer",
+            "target": "Princeton University",
+            "targetNode": "Princeton University"
+        },
+        {
+            "source": "employer",
+            "target": "Charles University",
+            "targetNode": "Charles University"
+        },
+        {
+            "source": "place of burial",
+            "target": "National Museum of Health and Medicine",
+            "targetNode": "National Museum of Health and Medicine"
+        },
+        {
+            "source": "religion or world view",
+            "target": "agnosticism",
+            "targetNode": "agnosticism"
+        },
+        {
+            "source": "award received",
+            "target": "Matteucci Medal",
+            "targetNode": "Matteucci Medal"
+        },
+        {
+            "source": "award received",
+            "target": "Foreign Member of the Royal Society",
+            "targetNode": "Foreign Member of the Royal Society"
+        },
+        {
+            "source": "award received",
+            "target": "Pour le Mérite for Sciences and Arts",
+            "targetNode": "Pour le Mérite for Sciences and Arts"
+        },
+        {
+            "source": "award received",
+            "target": "Josiah Willard Gibbs Lectureship",
+            "targetNode": "Josiah Willard Gibbs Lectureship"
+        },
+        {
+            "source": "award received",
+            "target": "Prix Jules Janssen",
+            "targetNode": "Prix Jules Janssen"
+        },
+        {
+            "source": "award received",
+            "target": "Honorary doctor of the University of Geneva",
+            "targetNode": "Honorary doctor of the University of Geneva"
+        },
+        {
+            "source": "award received",
+            "target": "honorary doctor of the Hebrew University of Jerusalem",
+            "targetNode": "honorary doctor of the Hebrew University of Jerusalem"
+        },
+        {
+            "source": "award received",
+            "target": "Franklin Medal",
+            "targetNode": "Franklin Medal"
+        },
+        {
+            "source": "award received",
+            "target": "Max Planck Medal",
+            "targetNode": "Max Planck Medal"
+        },
+        {
+            "source": "award received",
+            "target": "honorary doctor of the Princeton University",
+            "targetNode": "honorary doctor of the Princeton University"
+        },
+        {
+            "source": "award received",
+            "target": "honorary doctor of the University of Madrid Complutense",
+            "targetNode": "honorary doctor of the University of Madrid Complutense"
+        },
+        {
+            "source": "award received",
+            "target": "Member of the National Academy of Sciences of the United States",
+            "targetNode": "Member of the National Academy of Sciences of the United States"
+        },
+        {
+            "source": "award received",
+            "target": "Gold Medal of the Royal Astronomical Society",
+            "targetNode": "Gold Medal of the Royal Astronomical Society"
+        },
+        {
+            "source": "award received",
+            "target": "Barnard Medal for Meritorious Service to Science",
+            "targetNode": "Barnard Medal for Meritorious Service to Science"
+        },
+        {
+            "source": "award received",
+            "target": "Copley Medal",
+            "targetNode": "Copley Medal"
+        },
+        {
+            "source": "award received",
+            "target": "Nobel Prize in Physics",
+            "targetNode": "Nobel Prize in Physics"
+        },
+        {
+            "source": "ethnic group",
+            "target": "Jewish people",
+            "targetNode": "Jewish people"
+        },
+        {
+            "source": "doctoral advisor",
+            "target": "Heinrich Friedrich Weber",
+            "targetNode": "Heinrich Friedrich Weber"
+        },
+        {
+            "source": "doctoral advisor",
+            "target": "Alfred Kleiner",
+            "targetNode": "Alfred Kleiner"
+        },
+        {
+            "source": "doctoral advisor",
+            "target": "Heinrich Burkhardt",
+            "targetNode": "Heinrich Burkhardt"
+        },
+        {
+            "source": "place of birth",
+            "target": "Ulm",
+            "targetNode": "Ulm"
+        },
+        {
+            "source": "place of death",
+            "target": "Princeton",
+            "targetNode": "Princeton"
+        },
+        {
+            "source": "sex or gender",
+            "target": "male",
+            "targetNode": "male"
+        },
+        {
+            "source": "father",
+            "target": "Hermann Einstein",
+            "targetNode": "Hermann Einstein"
+        },
+        {
+            "source": "mother",
+            "target": "Pauline Koch",
+            "targetNode": "Pauline Koch"
+        },
+        {
+            "source": "spouse",
+            "target": "Elsa Einstein",
+            "targetNode": "Elsa Einstein"
+        },
+        {
+            "source": "spouse",
+            "target": "Mileva Marić",
+            "targetNode": "Mileva Marić"
+        },
+        {
+            "source": "country of citizenship",
+            "target": "Germany",
+            "targetNode": "Germany"
+        },
+        {
+            "source": "country of citizenship",
+            "target": "United States of America",
+            "targetNode": "United States of America"
+        },
+        {
+            "source": "country of citizenship",
+            "target": "Switzerland",
+            "targetNode": "Switzerland"
+        },
+        {
+            "source": "country of citizenship",
+            "target": "Cisleithania",
+            "targetNode": "Cisleithania"
+        },
+        {
+            "source": "country of citizenship",
+            "target": "Weimar Republic",
+            "targetNode": "Weimar Republic"
+        },
+        {
+            "source": "country of citizenship",
+            "target": "German Empire",
+            "targetNode": "German Empire"
+        },
+        {
+            "source": "instance of",
+            "target": "human",
+            "targetNode": "human"
+        },
+        {
+            "source": "position held",
+            "target": "professor",
+            "targetNode": "professor"
+        },
+        {
+            "source": "child",
+            "target": "Eduard Einstein",
+            "targetNode": "Eduard Einstein"
+        },
+        {
+            "source": "child",
+            "target": "Hans Albert Einstein",
+            "targetNode": "Hans Albert Einstein"
+        },
+        {
+            "source": "child",
+            "target": "Lieserl (Einstein)",
+            "targetNode": "Lieserl (Einstein)"
+        },
+        {
+            "source": "educated at",
+            "target": "Luitpold-Gymnasium",
+            "targetNode": "Luitpold-Gymnasium"
+        },
+        {
+            "source": "educated at",
+            "target": "University of Zurich",
+            "targetNode": "University of Zurich"
+        },
+        {
+            "source": "educated at",
+            "target": "old Kantonsschule (Albert Einstein House)",
+            "targetNode": "old Kantonsschule (Albert Einstein House)"
+        },
+        {
+            "source": "educated at",
+            "target": "ETH Zürich",
+            "targetNode": "ETH Zürich"
+        },
+        {
+            "source": "relative",
+            "target": "Lina Einstein",
+            "targetNode": "Lina Einstein"
+        },
+        {
+            "source": "relative",
+            "target": "Elsa Einstein",
+            "targetNode": "Elsa Einstein"
+        },
+        {
+            "source": "student of",
+            "target": "Heinrich Friedrich Weber",
+            "targetNode": "Heinrich Friedrich Weber"
+        },
+        {
+            "source": "manner of death",
+            "target": "natural causes",
+            "targetNode": "natural causes"
+        },
+        {
+            "source": "place of origin (Switzerland)",
+            "target": "Zürich",
+            "targetNode": "Zürich"
+        },
+        {
+            "source": "described by source",
+            "target": "Digitized residence applications of the Prague Police Directorate  (conscription) 1850–1914",
+            "targetNode": "Digitized residence applications of the Prague Police Directorate  (conscription) 1850–1914"
+        },
+        {
+            "source": "described by source",
+            "target": "1922 Encyclopædia Britannica",
+            "targetNode": "1922 Encyclopædia Britannica"
+        },
+        {
+            "source": "described by source",
+            "target": "Larousse Encyclopedia online",
+            "targetNode": "Larousse Encyclopedia online"
+        },
+        {
+            "source": "described by source",
+            "target": "Great Soviet Encyclopedia (1969–1978)",
+            "targetNode": "Great Soviet Encyclopedia (1969–1978)"
+        },
+        {
+            "source": "described by source",
+            "target": "BEIC Digital Library",
+            "targetNode": "BEIC Digital Library"
+        },
+        {
+            "source": "described by source",
+            "target": "Obalky knih.cz",
+            "targetNode": "Obalky knih.cz"
+        },
+        {
+            "source": "described by source",
+            "target": "Medvik",
+            "targetNode": "Medvik"
+        },
+        {
+            "source": "participant in",
+            "target": "Manhattan Project",
+            "targetNode": "Manhattan Project"
+        },
+        {
+            "source": "participant in",
+            "target": "1. Solvay Conference on Physics",
+            "targetNode": "1. Solvay Conference on Physics"
+        },
+        {
+            "source": "participant in",
+            "target": "5. Solvay Conference on Physics",
+            "targetNode": "5. Solvay Conference on Physics"
+        },
+        {
+            "source": "nominated for",
+            "target": "Nobel Prize in Physics",
+            "targetNode": "Nobel Prize in Physics"
+        },
+        {
+            "source": "languages spoken, written or signed",
+            "target": "German",
+            "targetNode": "German"
+        },
+        {
+            "source": "languages spoken, written or signed",
+            "target": "English",
+            "targetNode": "English"
+        },
+        {
+            "source": "topic's main template",
+            "target": "Template:Einstein",
+            "targetNode": "Template:Einstein"
+        },
+        {
+            "source": "present in work",
+            "target": "Marie Curie: The Courage of Knowledge",
+            "targetNode": "Marie Curie: The Courage of Knowledge"
+        },
+        {
+            "source": "sibling",
+            "target": "Maja Einstein",
+            "targetNode": "Maja Einstein"
+        },
+        {
+            "source": "member of",
+            "target": "Royal Society",
+            "targetNode": "Royal Society"
+        },
+        {
+            "source": "member of",
+            "target": "French Academy of Sciences",
+            "targetNode": "French Academy of Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "Royal Swedish Academy of Sciences",
+            "targetNode": "Royal Swedish Academy of Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "Indian National Science Academy",
+            "targetNode": "Indian National Science Academy"
+        },
+        {
+            "source": "member of",
+            "target": "Academy of Sciences of the USSR",
+            "targetNode": "Academy of Sciences of the USSR"
+        },
+        {
+            "source": "member of",
+            "target": "Brazilian Academy of Sciences",
+            "targetNode": "Brazilian Academy of Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "Royal Netherlands Academy of Arts and Sciences",
+            "targetNode": "Royal Netherlands Academy of Arts and Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "National Academy of Sciences",
+            "targetNode": "National Academy of Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "Centre international de synthèse",
+            "targetNode": "Centre international de synthèse"
+        },
+        {
+            "source": "member of",
+            "target": "Royal Prussian Academy of Sciences",
+            "targetNode": "Royal Prussian Academy of Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "Lincean Academy",
+            "targetNode": "Lincean Academy"
+        },
+        {
+            "source": "member of",
+            "target": "Accademia Nazionale delle Scienze detta dei XL",
+            "targetNode": "Accademia Nazionale delle Scienze detta dei XL"
+        },
+        {
+            "source": "member of",
+            "target": "Göttingen Academy of Sciences",
+            "targetNode": "Göttingen Academy of Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "Russian Academy of Sciences (1917–25)",
+            "targetNode": "Russian Academy of Sciences (1917–25)"
+        },
+        {
+            "source": "member of",
+            "target": "American Academy of Arts and Sciences",
+            "targetNode": "American Academy of Arts and Sciences"
+        },
+        {
+            "source": "member of",
+            "target": "American Philosophical Society",
+            "targetNode": "American Philosophical Society"
+        },
+        {
+            "source": "member of",
+            "target": "German Academy of Sciences Leopoldina",
+            "targetNode": "German Academy of Sciences Leopoldina"
+        },
+        {
+            "source": "member of",
+            "target": "Bavarian Academy of Sciences and Humanities",
+            "targetNode": "Bavarian Academy of Sciences and Humanities"
+        },
+        {
+            "source": "archives at",
+            "target": "Louis Round Wilson Library",
+            "targetNode": "Louis Round Wilson Library"
+        },
+        {
+            "source": "archives at",
+            "target": "Albert Einstein Archives",
+            "targetNode": "Albert Einstein Archives"
+        },
+        {
+            "source": "archives at",
+            "target": "ETH Zurich University Archives",
+            "targetNode": "ETH Zurich University Archives"
+        },
+        {
+            "source": "archives at",
+            "target": "Swiss Literary Archives",
+            "targetNode": "Swiss Literary Archives"
+        },
+        {
+            "source": "on focus list of Wikimedia project",
+            "target": "WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits",
+            "targetNode": "WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits"
+        },
+        {
+            "source": "on focus list of Wikimedia project",
+            "target": "Wikipedia:Vital articles",
+            "targetNode": "Wikipedia:Vital articles"
+        },
+        {
+            "source": "assessment",
+            "target": "intelligence test",
+            "targetNode": "intelligence test"
+        },
+        {
+            "source": "cause of death",
+            "target": "abdominal aortic aneurysm",
+            "targetNode": "abdominal aortic aneurysm"
+        },
+        {
+            "source": "academic degree",
+            "target": "Doctor of Philosophy in Physics",
+            "targetNode": "Doctor of Philosophy in Physics"
+        },
+        {
+            "source": "academic degree",
+            "target": "Doctor of Philosophy",
+            "targetNode": "Doctor of Philosophy"
+        },
+        {
+            "source": "Wikimedia outline",
+            "target": "outline of Albert Einstein",
+            "targetNode": "outline of Albert Einstein"
+        },
+        {
+            "source": "residence",
+            "target": "Einsteinhaus Caputh",
+            "targetNode": "Einsteinhaus Caputh"
+        },
+        {
+            "source": "residence",
+            "target": "Princeton",
+            "targetNode": "Princeton"
+        },
+        {
+            "source": "residence",
+            "target": "Einsteinhaus",
+            "targetNode": "Einsteinhaus"
+        },
+        {
+            "source": "residence",
+            "target": "Smíchov",
+            "targetNode": "Smíchov"
+        },
+        {
+            "source": "residence",
+            "target": "Munich",
+            "targetNode": "Munich"
+        },
+        {
+            "source": "writing language",
+            "target": "English",
+            "targetNode": "English"
+        },
+        {
+            "source": "family name",
+            "target": "Einstein",
+            "targetNode": "Einstein"
+        },
+        {
+            "source": "given name",
+            "target": "Albert",
+            "targetNode": "Albert"
+        },
+        {
+            "source": "influenced by",
+            "target": "Paul Valéry",
+            "targetNode": "Paul Valéry"
+        },
+        {
+            "source": "influenced by",
+            "target": "Karl Pearson",
+            "targetNode": "Karl Pearson"
+        },
+        {
+            "source": "influenced by",
+            "target": "Henry George",
+            "targetNode": "Henry George"
+        },
+        {
+            "source": "influenced by",
+            "target": "Riazuddin",
+            "targetNode": "Riazuddin"
+        },
+        {
+            "source": "influenced by",
+            "target": "Ernst Mach",
+            "targetNode": "Ernst Mach"
+        },
+        {
+            "source": "influenced by",
+            "target": "Mahatma Gandhi",
+            "targetNode": "Mahatma Gandhi"
+        },
+        {
+            "source": "influenced by",
+            "target": "George Bernard Shaw",
+            "targetNode": "George Bernard Shaw"
+        },
+        {
+            "source": "influenced by",
+            "target": "Thomas Young",
+            "targetNode": "Thomas Young"
+        },
+        {
+            "source": "influenced by",
+            "target": "Benedictus de Spinoza",
+            "targetNode": "Benedictus de Spinoza"
+        },
+        {
+            "source": "influenced by",
+            "target": "David Hume",
+            "targetNode": "David Hume"
+        },
+        {
+            "source": "influenced by",
+            "target": "Arthur Schopenhauer",
+            "targetNode": "Arthur Schopenhauer"
+        },
+        {
+            "source": "influenced by",
+            "target": "Hendrik Lorentz",
+            "targetNode": "Hendrik Lorentz"
+        },
+        {
+            "source": "influenced by",
+            "target": "Bernhard Riemann",
+            "targetNode": "Bernhard Riemann"
+        },
+        {
+            "source": "influenced by",
+            "target": "Moritz Schlick",
+            "targetNode": "Moritz Schlick"
+        },
+        {
+            "source": "influenced by",
+            "target": "Hermann Minkowski",
+            "targetNode": "Hermann Minkowski"
+        },
+        {
+            "source": "influenced by",
+            "target": "James Clerk Maxwell",
+            "targetNode": "James Clerk Maxwell"
+        },
+        {
+            "source": "influenced by",
+            "target": "Isaac Newton",
+            "targetNode": "Isaac Newton"
+        },
+        {
+            "source": "influenced by",
+            "target": "Fyodor Dostoyevsky",
+            "targetNode": "Fyodor Dostoyevsky"
+        },
+        {
+            "source": "notable work",
+            "target": "unified field theory",
+            "targetNode": "unified field theory"
+        },
+        {
+            "source": "notable work",
+            "target": "Planck constant",
+            "targetNode": "Planck constant"
+        },
+        {
+            "source": "notable work",
+            "target": "Einstein field equations",
+            "targetNode": "Einstein field equations"
+        },
+        {
+            "source": "notable work",
+            "target": "theory of Brownian Motion",
+            "targetNode": "theory of Brownian Motion"
+        },
+        {
+            "source": "notable work",
+            "target": "photoelectric effect",
+            "targetNode": "photoelectric effect"
+        },
+        {
+            "source": "notable work",
+            "target": "general relativity",
+            "targetNode": "general relativity"
+        },
+        {
+            "source": "notable work",
+            "target": "special relativity",
+            "targetNode": "special relativity"
+        },
+        {
+            "source": "notable work",
+            "target": "mass–energy equivalence",
+            "targetNode": "mass–energy equivalence"
+        },
+        {
+            "source": "notable work",
+            "target": "theory of relativity",
+            "targetNode": "theory of relativity"
+        },
+        {
+            "source": "notable work",
+            "target": "quantum mechanics",
+            "targetNode": "quantum mechanics"
+        },
+        {
+            "source": "student",
+            "target": "Ernst G. Straus",
+            "targetNode": "Ernst G. Straus"
+        },
+        {
+            "source": "professorship",
+            "target": "professor",
+            "targetNode": "professor"
+        },
+        {
+            "source": "professorship",
+            "target": "full professor",
+            "targetNode": "full professor"
+        },
+        {
+            "source": "professorship",
+            "target": "academician",
+            "targetNode": "academician"
+        },
+        {
+            "source": "facial hair",
+            "target": "walrus moustache",
+            "targetNode": "walrus moustache"
+        },
+        {
+            "source": "topic's main category",
+            "target": "Category:Albert Einstein",
+            "targetNode": "Category:Albert Einstein"
+        },
+        {
+            "source": "work location",
+            "target": "Berlin",
+            "targetNode": "Berlin"
+        },
+        {
+            "source": "work location",
+            "target": "Bern",
+            "targetNode": "Bern"
+        },
+        {
+            "source": "work location",
+            "target": "Zürich",
+            "targetNode": "Zürich"
+        },
+        {
+            "source": "work location",
+            "target": "Princeton",
+            "targetNode": "Princeton"
+        },
+        {
+            "source": "work location",
+            "target": "Caputh",
+            "targetNode": "Caputh"
+        },
+        {
+            "source": "work location",
+            "target": "Prague",
+            "targetNode": "Prague"
+        },
+        {
+            "source": 1,
+            "target": "topic0",
+            "targetNode": "topic0"
+        },
+        {
+            "source": 1,
+            "target": "topic1",
+            "targetNode": "topic1"
+        },
+        {
+            "source": 1,
+            "target": "topic2",
+            "targetNode": "topic2"
+        },
+        {
+            "source": 1,
+            "target": "topic3",
+            "targetNode": "topic3"
+        },
+        {
+            "source": 1,
+            "target": "topic4",
+            "targetNode": "topic4"
+        },
+        {
+            "source": 1,
+            "target": "topic5",
+            "targetNode": "topic5"
+        },
+        {
+            "source": 1,
+            "target": "topic6",
+            "targetNode": "topic6"
+        },
+        {
+            "source": 1,
+            "target": "topic7",
+            "targetNode": "topic7"
+        },
+        {
+            "source": 1,
+            "target": "topic8",
+            "targetNode": "topic8"
+        },
+        {
+            "source": 1,
+            "target": "topic9",
+            "targetNode": "topic9"
+        },
+        {
+            "source": "topic0",
+            "target": "einstein",
+            "targetNode": "einstein"
+        },
+        {
+            "source": "topic0",
+            "target": "theory",
+            "targetNode": "theory"
+        },
+        {
+            "source": "topic0",
+            "target": "relativity",
+            "targetNode": "relativity"
+        },
+        {
+            "source": "topic0",
+            "target": "book",
+            "targetNode": "book"
+        },
+        {
+            "source": "topic0",
+            "target": "science",
+            "targetNode": "science"
+        },
+        {
+            "source": "topic1",
+            "target": "princeton",
+            "targetNode": "princeton"
+        },
+        {
+            "source": "topic1",
+            "target": "books",
+            "targetNode": "books"
+        },
+        {
+            "source": "topic1",
+            "target": "paperback",
+            "targetNode": "paperback"
+        },
+        {
+            "source": "topic1",
+            "target": "print",
+            "targetNode": "print"
+        },
+        {
+            "source": "topic1",
+            "target": "editions",
+            "targetNode": "editions"
+        },
+        {
+            "source": "topic2",
+            "target": "et",
+            "targetNode": "et"
+        },
+        {
+            "source": "topic2",
+            "target": "brain",
+            "targetNode": "brain"
+        },
+        {
+            "source": "topic2",
+            "target": "hemispheres",
+            "targetNode": "hemispheres"
+        },
+        {
+            "source": "topic2",
+            "target": "photographs",
+            "targetNode": "photographs"
+        },
+        {
+            "source": "topic2",
+            "target": "left",
+            "targetNode": "left"
+        },
+        {
+            "source": "topic3",
+            "target": "la",
+            "targetNode": "la"
+        },
+        {
+            "source": "topic3",
+            "target": "en",
+            "targetNode": "en"
+        },
+        {
+            "source": "topic3",
+            "target": "sa",
+            "targetNode": "sa"
+        },
+        {
+            "source": "topic3",
+            "target": "le",
+            "targetNode": "le"
+        },
+        {
+            "source": "topic4",
+            "target": "neuroanatomy",
+            "targetNode": "neuroanatomy"
+        },
+        {
+            "source": "topic4",
+            "target": "evolution",
+            "targetNode": "evolution"
+        },
+        {
+            "source": "topic4",
+            "target": "neurological",
+            "targetNode": "neurological"
+        },
+        {
+            "source": "topic4",
+            "target": "cortex",
+            "targetNode": "cortex"
+        },
+        {
+            "source": "topic5",
+            "target": "particle",
+            "targetNode": "particle"
+        },
+        {
+            "source": "topic5",
+            "target": "quantum",
+            "targetNode": "quantum"
+        },
+        {
+            "source": "topic5",
+            "target": "wave",
+            "targetNode": "wave"
+        },
+        {
+            "source": "topic5",
+            "target": "physics",
+            "targetNode": "physics"
+        },
+        {
+            "source": "topic5",
+            "target": "view",
+            "targetNode": "view"
+        },
+        {
+            "source": "topic6",
+            "target": "bohr",
+            "targetNode": "bohr"
+        },
+        {
+            "source": "topic6",
+            "target": "heisenberg",
+            "targetNode": "heisenberg"
+        },
+        {
+            "source": "topic6",
+            "target": "copenhagen",
+            "targetNode": "copenhagen"
+        },
+        {
+            "source": "topic6",
+            "target": "conference",
+            "targetNode": "conference"
+        },
+        {
+            "source": "topic6",
+            "target": "solvay",
+            "targetNode": "solvay"
+        },
+        {
+            "source": "topic7",
+            "target": "year",
+            "targetNode": "year"
+        },
+        {
+            "source": "topic7",
+            "target": "students",
+            "targetNode": "students"
+        },
+        {
+            "source": "topic7",
+            "target": "clinical",
+            "targetNode": "clinical"
+        },
+        {
+            "source": "topic7",
+            "target": "medicine",
+            "targetNode": "medicine"
+        },
+        {
+            "source": "topic7",
+            "target": "specialty",
+            "targetNode": "specialty"
+        },
+        {
+            "source": "topic8",
+            "target": "viewpoint",
+            "targetNode": "viewpoint"
+        },
+        {
+            "source": "topic8",
+            "target": "stellar",
+            "targetNode": "stellar"
+        },
+        {
+            "source": "topic8",
+            "target": "aberration",
+            "targetNode": "aberration"
+        },
+        {
+            "source": "topic8",
+            "target": "relativistic",
+            "targetNode": "relativistic"
+        },
+        {
+            "source": "topic9",
+            "target": "cultivated",
+            "targetNode": "cultivated"
+        },
+        {
+            "source": "topic9",
+            "target": "profound",
+            "targetNode": "profound"
+        },
+        {
+            "source": "topic9",
+            "target": "mind",
+            "targetNode": "mind"
+        },
+        {
+            "source": "topic9",
+            "target": "training",
+            "targetNode": "training"
+        },
+        {
+            "source": "topic9",
+            "target": "undergraduate",
+            "targetNode": "undergraduate"
+        }
+    ]
+}
