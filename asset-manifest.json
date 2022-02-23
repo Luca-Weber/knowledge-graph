@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/knowledge-graph/static/css/main.fcf1d335.css",
-    "main.js": "/knowledge-graph/static/js/main.b13fa8ce.js",
+    "main.js": "/knowledge-graph/static/js/main.491932fc.js",
     "index.html": "/knowledge-graph/index.html",
     "main.fcf1d335.css.map": "/knowledge-graph/static/css/main.fcf1d335.css.map",
-    "main.b13fa8ce.js.map": "/knowledge-graph/static/js/main.b13fa8ce.js.map"
+    "main.491932fc.js.map": "/knowledge-graph/static/js/main.491932fc.js.map"
   },
   "entrypoints": [
     "static/css/main.fcf1d335.css",
-    "static/js/main.b13fa8ce.js"
+    "static/js/main.491932fc.js"
   ]
 }
